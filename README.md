@@ -1,7 +1,5 @@
 # Study Notes Hub
 
-**Author:** Your Name
-
 ## Description
 This repository contains beginner study notes for version control practice.
 
