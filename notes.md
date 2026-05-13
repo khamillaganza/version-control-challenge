@@ -38,3 +38,6 @@ git push origin main
 - Makes collaboration easier
 - Helps recover old versions
 - Organizes project history
+
+## Why GitHub is Useful
+GitHub helps developers collaborate, store code online, and manage projects more efficiently.
