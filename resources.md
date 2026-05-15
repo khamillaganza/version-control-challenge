@@ -17,10 +17,10 @@ git push origin main
 ```
 
 ## Beginner Checklist
-- [x] Create repository
-- [x] Clone repository
-- [x] Create commits
-- [x] Push changes
-- [x] Create branch
-- [ ] Open pull request
-- [ ] Merge pull request
+-  Create repository
+-  Clone repository
+-  Create commits
+-  Push changes
+-  Create branch
+-  Open pull request
+-  Merge pull request
