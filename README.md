@@ -1,5 +1,5 @@
 # Study Notes Hub
-
+**Author:** Ganza Khamilla
 ## Description
 This repository contains beginner study notes for version control practice.
 
